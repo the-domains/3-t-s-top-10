@@ -2,6 +2,7 @@ name: "3 T's Top 10"
 favicon: null
 layout_spectrum: 0.8566087048966438
 typography_spectrum: 0.6446937043219805
+title: TTT Top 10
 cta:
   domain: null
   bucket: null
@@ -21,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5466124436352402
+  brandStrength: 0.625
   lightness: 0.2078049222473055
   saturation: 0.1756418647710234
   rhythmicContrast: 0.3204927137121558
