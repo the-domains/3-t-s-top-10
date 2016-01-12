@@ -1,6 +1,6 @@
 name: "3 T's Top 10"
 favicon: null
-layout_spectrum: 0.95991
+layout_spectrum: 0
 typography_spectrum: 0.61498
 title: TTT Top 10
 cta:
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.1875
+  brandStrength: 0.375
   lightness: 0.5625
   saturation: 0.125
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
