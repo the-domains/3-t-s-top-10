@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TTT Top 10]]></title>
         <description><![CDATA[TTT Top 10]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/3-t-s-top-10/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 22:22:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 21:32:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/3-t-s-top-10/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static1.squarespace.com/static/51237ec3e4b0b5151b78f462/t/54f888c0e4b00d5c702b55c4/1425574083317/PULPFICTION-VAR.jpg?format=300w">]]></description>
+            <link>http://www.laurentdurieux.com/</link>
+            <guid isPermaLink="false">ef35ff48-ef09-4fe4-8c19-3cc2782e9081</guid>
+            <pubDate>Tue, 12 Jan 2016 21:32:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1e83e9-d0ca-4958-93c2-0bb5c073483a.jpg">]]></description>
-            <link>undefined2f171603-26ff-4f2e-b408-746793fc66d5/index.html</link>
+            <link>https://thegrid.ai/3-t-s-top-10/2f171603-26ff-4f2e-b408-746793fc66d5/index.html</link>
             <guid isPermaLink="false">2f171603-26ff-4f2e-b408-746793fc66d5</guid>
             <pubDate>Mon, 11 Jan 2016 22:22:28 GMT</pubDate>
         </item>
