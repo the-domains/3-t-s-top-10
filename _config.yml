@@ -1,41 +1,41 @@
-name: "3 T's Top 10"
-favicon: null
-layout_spectrum: 0.75693
-typography_spectrum: 0.38878
 title: TTT Top 10
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.08422939
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#000000'
+    - '#FEF7E3'
+    - '#272620'
+    - '#BB9F90'
+    - '#C96E24'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: "3 T's Top 10"
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#846c30'
-    - '#9fcfe7'
-    - '#1a80ba'
-    - '#f0e934'
-    - '#4f9a98'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.7150537
+layout_spectrum: 0.4802867
